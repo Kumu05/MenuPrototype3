@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5734048111247476213
+  m_GuidHigh: 5453855824442000519
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4797479550853188409
+      m_GuidHigh: 7133842157222470804
+    m_SerializedTextureGuid:
+      m_GuidLow: 17664257253494819936
+      m_GuidHigh: 15228433697297646201
+    m_Size: {x: 0.0305, y: 0.0305}
+    m_SpecifySize: 1
+    m_Name: Burger
+    m_Texture: {fileID: 2800000, guid: ffad0c600c61f52479c20395c34356d3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5129533967800330540
+      m_GuidHigh: 10434977769759968186
+    m_SerializedTextureGuid:
+      m_GuidLow: 8499576189141129856
+      m_GuidHigh: 2533765253824412778
+    m_Size: {x: 0.0305, y: 0.0305}
+    m_SpecifySize: 1
+    m_Name: Cake
+    m_Texture: {fileID: 2800000, guid: e7201a808f8275f46a7c6eea12be2923, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5028222236331255795
+      m_GuidHigh: 9619526465100047544
+    m_SerializedTextureGuid:
+      m_GuidLow: 4175973426724954488
+      m_GuidHigh: 16611210808390250985
+    m_Size: {x: 0.0305, y: 0.0305}
+    m_SpecifySize: 1
+    m_Name: Coffee
+    m_Texture: {fileID: 2800000, guid: d369617809b439f4e9f13a6338e086e6, type: 3}
